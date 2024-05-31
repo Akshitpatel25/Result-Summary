@@ -36,7 +36,7 @@
 - Semantic HTML5 markup
 - CSS 
 - Flexbox
-- Mobile-first workflow
+- Desktop-first workflow
 - JavaScript
 
 ## Author
